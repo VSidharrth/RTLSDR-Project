@@ -96,7 +96,7 @@ Machine Learning
      │
      ▼
 Modulation Classification
-
+```
 The objective is to investigate how effectively machine-learning algorithms can distinguish between different modulation schemes based on signal characteristics.
 
 📊 I/Q Signal Representation
@@ -145,7 +145,8 @@ RTL-SDR device
 Available RF spectrum
 Required bandwidth
 📻 RTL-SDR
-
+```
+```
 An RTL-SDR receiver can be used to capture real-world RF signals for analysis.
 
 Typical parameters that may need to be configured include:
@@ -155,6 +156,7 @@ Sample rate
 Frequency correction (PPM)
 Gain
 Bandwidth
+```
 ```
 The appropriate values depend on the receiving environment and the signal being investigated.
 
